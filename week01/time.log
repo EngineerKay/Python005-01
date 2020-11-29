@@ -1,0 +1,11 @@
+2020-11-30 00:10:28 root     DEBUG    [line:8] <class 'datetime.date'>
+2020-11-30 00:11:50 root     DEBUG    [line:11] <class 'datetime.date'>
+2020-11-30 00:12:14 root     DEBUG    [line:12] <class 'datetime.date'>
+2020-11-30 00:12:42 root     DEBUG    [line:12] <class 'datetime.date'>
+2020-11-30 00:13:13 root     DEBUG    [line:13] <class 'datetime.date'>
+2020-11-30 00:13:58 root     DEBUG    [line:13] <class 'datetime.date'>
+2020-11-30 00:13:58 root     DEBUG    [line:6] debug log
+2020-11-30 00:14:07 root     DEBUG    [line:13] <class 'datetime.date'>
+2020-11-30 00:14:07 root     DEBUG    [line:6] debug log
+2020-11-30 00:14:08 root     DEBUG    [line:13] <class 'datetime.date'>
+2020-11-30 00:14:08 root     DEBUG    [line:6] debug log
